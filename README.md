@@ -1,4 +1,4 @@
-Mobile and Web developer
+### Mobile and Web developer
 
 I am a senior mobile developer with 10 years of experience.
 I have a deep understanding of the Android and IOS SDK and Java/Kotlin/Swift programming language, as well as a strong foundation in mobile application development principles.
