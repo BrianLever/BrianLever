@@ -24,13 +24,14 @@ Offers:
 - ✅ Desktop/server software: MacOS, Windows, Linux.
 
 Has the following experience:
-✅ PHP, Yii2, Laravel, Symphony, Zend, Node.js, Vue, React, Python, Ruby, JQuery, AJAX, web sockets, Meteor.js, CoffeeScript, Backbone, AngularJS, Marionette.js, MySQL, MongoDB, DB mirroring and profiling, Apache, Nginx, C#, Salesforce, SQL, Bioinformatics, 3D Modeling, Electronic Circuit Design, XML, C++, C, EPiServer, Sitecore, Sitefinity, .NET Framework, Unity3D.
-✅ Swift, Objective C, Java, C++, C#, QT, PhoneGap, Ionic, Flutter, Meteor.js, Firebase.
-✅ Software installers, updaters, licensing solutions for macOS (OS X) / Windows / Linux: C++, NSIS, InnoSetup, Apple script.
-✅ VPN server, Proxy server, MDM server, MITM, Blockchain, CryptoMiners.
-✅ Protocols, such as HTTP, HTTPS, TCP, UDP, and MDM.
-✅ AWS, RDS, S3, Lambda, SNS, CloudFront, Heroku, Rackspace CDN, Apache, Nginx, SSL setup and tuning.
-✅ Continuous integration and delivery of CI/CD.
-✅ Setting up, using, and configuring source control systems: GitHub, GitLab, Gitolite, SVN, SourceSafe.
-✅ Setting up and configuring Kubernetes, Dockers, load balancers, Memcache, and other tools for dynamic scaling and deployment.
-✅ Manual and automated software testing: Selenium WebDriver, Jenkins, JMeter, Shell and batch scripts, Fiddler, Wireshark, and other testing and debugging tools.
+- ✅ PHP, Yii2, Laravel, Symphony, Zend, Node.js, Vue, React, Python, Ruby, JQuery, AJAX, web sockets, Meteor.js, CoffeeScript, Backbone, AngularJS, Marionette.js, MySQL, MongoDB, DB mirroring and profiling, Apache,   
+      Nginx, C#, Salesforce, SQL, Bioinformatics, 3D Modeling, Electronic Circuit Design, XML, C++, C, EPiServer, Sitecore, Sitefinity, .NET Framework, Unity3D.
+- ✅ Swift, Objective C, Java, C++, C#, QT, PhoneGap, Ionic, Flutter, Meteor.js, Firebase.
+- ✅ Software installers, updaters, licensing solutions for macOS (OS X) / Windows / Linux: C++, NSIS, InnoSetup, Apple script.
+- ✅ VPN server, Proxy server, MDM server, MITM, Blockchain, CryptoMiners.
+- ✅ Protocols, such as HTTP, HTTPS, TCP, UDP, and MDM.
+- ✅ AWS, RDS, S3, Lambda, SNS, CloudFront, Heroku, Rackspace CDN, Apache, Nginx, SSL setup and tuning.
+- ✅ Continuous integration and delivery of CI/CD.
+- ✅ Setting up, using, and configuring source control systems: GitHub, GitLab, Gitolite, SVN, SourceSafe.
+- ✅ Setting up and configuring Kubernetes, Dockers, load balancers, Memcache, and other tools for dynamic scaling and deployment.
+- ✅ Manual and automated software testing: Selenium WebDriver, Jenkins, JMeter, Shell and batch scripts, Fiddler, Wireshark, and other testing and debugging tools.
