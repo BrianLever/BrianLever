@@ -18,7 +18,7 @@ Gradle, Bash, Python, Jira, Azure DevOps, Bitbucket, and Figma.
 
 
 Offers:
-✅ Web development: front-ends, back-ends, web APIs, web services, data parsing, scraping, AWS, Heroku.\n
+✅ Web development: front-ends, back-ends, web APIs, web services, data parsing, scraping, AWS, Heroku.<br>
 ✅ Databases: MySQL, MongoDB, NoSQL, SQLite.
 ✅ Mobile apps: iOS, Android, Windows Phone, IoT, BLE, WiFi.
 ✅ Desktop/server software: MacOS, Windows, Linux.
