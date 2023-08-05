@@ -1,4 +1,4 @@
-### Mobile and Web developer
+#### Mobile and Web developer
 
 I am a senior mobile developer with 10 years of experience.
 I have a deep understanding of the Android and IOS SDK and Java/Kotlin/Swift programming language, as well as a strong foundation in mobile application development principles.
@@ -8,7 +8,7 @@ I’m looking for a great employer and company that will provide me with challen
 
 
 
--Technical skills:
+- ### Technical skills:
   - Java(10 years), Kotlin(7 years), Swift(7 years), React Native(7 years),Flutter(6 years) and Objective-C(7 years).
   - React(7 years), Redux(7 years), Node(7 years), Typescript(7 years), laravel(8 years) and Asp.net(7 years).
   - C# WPF(7 years) and C# WinForm(7 years)
@@ -17,13 +17,13 @@ I’m looking for a great employer and company that will provide me with challen
 
 
 
-Offers:
+## Offers:
 - ✅ Web development: front-ends, back-ends, web APIs, web services, data parsing, scraping, AWS, Heroku.
 - ✅ Databases: MySQL, MongoDB, NoSQL, SQLite.
 - ✅ Mobile apps: iOS, Android, Windows Phone, IoT, BLE, WiFi.
 - ✅ Desktop/server software: MacOS, Windows, Linux.
 
-Has the following experience:
+## Has the following experience:
 - ✅ PHP, Yii2, Laravel, Symphony, Zend, Node.js, Vue, React, Python, Ruby, JQuery, AJAX, web sockets, Meteor.js, CoffeeScript, Backbone, AngularJS, Marionette.js, MySQL, MongoDB, DB mirroring and profiling, Apache,   
         Nginx, C#, Salesforce, SQL, Bioinformatics, 3D Modeling, Electronic Circuit Design, XML, C++, C, EPiServer, Sitecore, Sitefinity, .NET Framework, Unity3D.
 - ✅ Swift, Objective C, Java, C++, C#, QT, PhoneGap, Ionic, Flutter, Meteor.js, Firebase.
