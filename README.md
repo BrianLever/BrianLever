@@ -9,11 +9,11 @@ I’m looking for a great employer and company that will provide me with challen
 
 
 -Technical skills:
-Java(10 years), Kotlin(7 years), Swift(7 years), React Native(7 years),Flutter(6 years) and Objective-C(7 years).
-React(7 years), Redux(7 years), Node(7 years), Typescript(7 years), laravel(8 years) and Asp.net(7 years).
-C# WPF(7 years) and C# WinForm(7 years)
-AWS (Lambda, EC2, CDK, S3 bucket), GraphQL, Docker, Kubernetes, CI/CD, Git and GitLab.
-Gradle, Bash, Python, Jira, Azure DevOps, Bitbucket, and Figma.
+  - Java(10 years), Kotlin(7 years), Swift(7 years), React Native(7 years),Flutter(6 years) and Objective-C(7 years).
+  - React(7 years), Redux(7 years), Node(7 years), Typescript(7 years), laravel(8 years) and Asp.net(7 years).
+  - C# WPF(7 years) and C# WinForm(7 years)
+  - AWS (Lambda, EC2, CDK, S3 bucket), GraphQL, Docker, Kubernetes, CI/CD, Git, and GitLab.
+  - Gradle, Bash, Python, Jira, Azure DevOps, Bitbucket, and Figma.
 
 
 
@@ -25,7 +25,7 @@ Offers:
 
 Has the following experience:
 - ✅ PHP, Yii2, Laravel, Symphony, Zend, Node.js, Vue, React, Python, Ruby, JQuery, AJAX, web sockets, Meteor.js, CoffeeScript, Backbone, AngularJS, Marionette.js, MySQL, MongoDB, DB mirroring and profiling, Apache,   
-      Nginx, C#, Salesforce, SQL, Bioinformatics, 3D Modeling, Electronic Circuit Design, XML, C++, C, EPiServer, Sitecore, Sitefinity, .NET Framework, Unity3D.
+        Nginx, C#, Salesforce, SQL, Bioinformatics, 3D Modeling, Electronic Circuit Design, XML, C++, C, EPiServer, Sitecore, Sitefinity, .NET Framework, Unity3D.
 - ✅ Swift, Objective C, Java, C++, C#, QT, PhoneGap, Ionic, Flutter, Meteor.js, Firebase.
 - ✅ Software installers, updaters, licensing solutions for macOS (OS X) / Windows / Linux: C++, NSIS, InnoSetup, Apple script.
 - ✅ VPN server, Proxy server, MDM server, MITM, Blockchain, CryptoMiners.
