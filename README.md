@@ -18,10 +18,10 @@ Gradle, Bash, Python, Jira, Azure DevOps, Bitbucket, and Figma.
 
 
 Offers:
-✅ Web development: front-ends, back-ends, web APIs, web services, data parsing, scraping, AWS, Heroku.<br>
-✅ Databases: MySQL, MongoDB, NoSQL, SQLite.
-✅ Mobile apps: iOS, Android, Windows Phone, IoT, BLE, WiFi.
-✅ Desktop/server software: MacOS, Windows, Linux.
+- ✅ Web development: front-ends, back-ends, web APIs, web services, data parsing, scraping, AWS, Heroku.
+- ✅ Databases: MySQL, MongoDB, NoSQL, SQLite.
+- ✅ Mobile apps: iOS, Android, Windows Phone, IoT, BLE, WiFi.
+- ✅ Desktop/server software: MacOS, Windows, Linux.
 
 Has the following experience:
 ✅ PHP, Yii2, Laravel, Symphony, Zend, Node.js, Vue, React, Python, Ruby, JQuery, AJAX, web sockets, Meteor.js, CoffeeScript, Backbone, AngularJS, Marionette.js, MySQL, MongoDB, DB mirroring and profiling, Apache, Nginx, C#, Salesforce, SQL, Bioinformatics, 3D Modeling, Electronic Circuit Design, XML, C++, C, EPiServer, Sitecore, Sitefinity, .NET Framework, Unity3D.
